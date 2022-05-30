@@ -1,0 +1,72 @@
+ Number of process of : 2
+serial time spent = 2.503805
+runtime = 1.673098
+speedup :1.496508
+efficiency :0.748254
+
+ Number of process of : 4
+serial time spent = 2.503805
+runtime = 3.998726
+speedup :0.626151
+efficiency :0.156538
+
+ Number of process of : 8
+serial time spent = 2.503805
+runtime = 1.629342
+speedup :1.536697
+efficiency :0.192087
+
+ Number of process of : 16
+serial time spent = 2.503805
+runtime = 2.504062
+speedup :0.999897
+efficiency :0.062494
+
+ Number of process of : 32
+serial time spent = 2.503805
+runtime = 3.135857
+speedup :0.798444
+efficiency :0.024951
+
+ Number of process of : 64
+serial time spent = 2.503805
+runtime = 4.521885
+speedup :0.553708
+efficiency :0.008652
+
+ Number of process of : 2
+serial time spent = 2.385404
+runtime = 1.963793
+speedup :1.214692
+efficiency :0.607346
+
+ Number of process of : 4
+serial time spent = 2.385404
+runtime = 1.947028
+speedup :1.225151
+efficiency :0.306288
+
+ Number of process of : 8
+serial time spent = 2.385404
+runtime = 2.537664
+speedup :0.940000
+efficiency :0.117500
+
+ Number of process of : 16
+serial time spent = 2.385404
+runtime = 2.218151
+speedup :1.075402
+efficiency :0.067213
+
+ Number of process of : 32
+serial time spent = 2.385404
+runtime = 4.256619
+speedup :0.560399
+efficiency :0.017512
+
+ Number of process of : 64
+serial time spent = 2.385404
+runtime = 4.177488
+speedup :0.571014
+efficiency :0.008922
+
